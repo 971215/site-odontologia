@@ -1,0 +1,15 @@
+CONFIGURAÇÃO DAS ROTAS SITE
+
+VISUALIZAÇÃO DO USUÁRIO COMUM - GETS
+NÚMERO	DESCRIÇÃO DA ROTA	MÉTODO	REDIRECIONA
+1	/	GET	index
+2	/galerias	GET	galerias
+3	/galerias/id	GET	galeria
+4	/noticias/	GET	noticias
+5	/noticias/id	GET	noticia
+6	/cursos /	GET	cursos
+7	/cursos/id	GET	curso
+8	/login	GET	login
+9	/cadastro	GET	cadastro
+10	/meu-perfil	GET	Meu-perfil
+
